@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapinginprongoding&show_icons=true&locale=en" alt="adityapinginprongoding" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapinginprongoding&" alt="adityapinginprongoding" /></p>
+<p><img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="kader2637" /></p>
